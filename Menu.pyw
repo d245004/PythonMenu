@@ -143,26 +143,7 @@ if __name__ == "__main__" :
         # 되긴 된것 같다
         # 되긴 된것 같다
 
-    #그럭저럭 성공한 것 같기도 한데 과연???   
-    # xxxxxxxxxxxxxxxxxxxxxxx
-        # 되긴 된것 같다
-        # 되긴 된것 같다
-
-    #그럭저럭 성공한 것 같기도 한데 과연???   
-    # xxxxxxxxxxxxxxxxxxxxxxx
-        # 되긴 된것 같다
-        # 되긴 된것 같다
-
-    #그럭저럭 성공한 것 같기도 한데 과연???   
-    # xxxxxxxxxxxxxxxxxxxxxxx
-        # 되긴 된것 같다
-        # 되긴 된것 같다
-
-    #그럭저럭 성공한 것 같기도 한데 과연???   
-    # xxxxxxxxxxxxxxxxxxxxxxx
-        # 되긴 된것 같다
-        # 되긴 된것 같다
-
+   
 
     
 
